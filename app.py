@@ -8,7 +8,6 @@
     :copyright: (C) 2017 h4wldev@gmail.com
     :license: MIT, see LICENSE for more details.
 """
-import os
 
 from flask_script import Server, Manager
 from flask_migrate import Migrate, MigrateCommand
