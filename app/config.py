@@ -15,7 +15,7 @@ import binascii
 ENVIRONMENT = os.environ.get('DMGI_ENV', 'development')
 
 # DEFAULT URL
-DEFAULT_URL = 'http://0.0.0.0:5000'
+DEFAULT_URL = '0.0.0.0'
 
 # LOGGER FORMATTING
 LOGGER_FORMAT = '[%(levelname)s][%(filename)s:%(lineno)s] %(message)s'
